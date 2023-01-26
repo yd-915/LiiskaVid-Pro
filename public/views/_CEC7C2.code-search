@@ -1,0 +1,68 @@
+# Query: #CEC7C2
+# ContextLines: 1
+
+18 results - 8 files
+
+public\css\client.css:
+   40    /* common */
+   41:   --navbar-bg: linear-gradient(#0B32BB, #ff9633);
+   42:   --body-bg: radial-gradient(#0B32BB, #ff9633);
+   43    --border: 1px solid rgb(#ff9633 / 32%);
+   44:   --box-shadow: 3px 3px 6px #0B32BB, -3px -3px 6px #0B32BB;
+   45    --msger-top: 50%;
+
+   86    --body-bg: #ff9633;
+   87:   --msger-bg: linear-gradient(to left, #0B32BB, #ff9633);
+   88:   --msger-private-bg: #0B32BB;
+   89:   --left-msg-bg: #0B32BB;
+   90    --private-msg-bg: #F634F9;
+   91    --right-msg-bg: #ff9633;
+   92:   --box-shadow: 3px 3px 6px #ff9633, -3px -3px 6px #0B32BB;
+   93    --btn-bg: white;
+
+   95    --btn-opc: 1;
+   96:   --wb-bg: linear-gradient(to left, #0B32BB, #ff9633);
+   97    --wb-hbg: #000000;
+
+  253    background: transparent;
+  254:   box-shadow:  3px 3px 6px #ff9633, -3px -3px 6px #0B32BB;
+  255  }
+
+  260    transition: all 0.3s ease-in-out;
+  261:   background: #0B32BB;
+  262    padding: 4px;
+
+public\css\landing.css:
+  2732    background: linear-gradient(-360deg, #fc466b, #3f5efb);*/
+  2733:   background: radial-gradient(circle at bottom, #0B32BB, #f9e176, #ff9633);
+  2734  }
+
+public\css\star.css:
+  1  body {
+  2:     background: #0B32BB;
+  3      overflow: hidden;
+
+public\css\whiteboard.css:
+  13    border: var(--border);
+  14:   box-shadow:  3px 3px 6px #0B32BB, -3px -3px 6px #ff9633;
+  15    border-radius: 10px;
+
+public\views\404.html:
+  103                                                          100deg,
+  104:                                                         #0B32BB 0,
+  105                                                          #ff9633 75%,
+
+public\views\newcall.html:
+  114          <div class="container" >
+  115:           <div class="cta-inner section-inner cta-split" style="background: linear-gradient(to right, #0B32BB, #ff9633);"> #0B32BB
+  116              <div class="cta-slogan">
+
+public\views\permission.html:
+  121                              10deg,
+  122:                             #0B32BB 0,
+  123                              #ff9633 75%,
+
+public\views\privacy.html:
+  148                              10deg,
+  149:                             #0B32BB 0,
+  150                              #ff9633 75%,
